@@ -1,13 +1,13 @@
 ---
 type: assignment
-date: 2024-01-11T4:00:00-5:00
-title: 'Lab 1: ROS 2 (Individual)'
+date: 2024-01-25T13:30:00-5:00
+title: 'Lab 3: Wall Following'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
 due_event: 
     type: due
-    date: 2024-01-18T23:59:00-5:00
-    description: 'Lab 1 Due'
+    date: 2024-02-06T23:59:00-5:00
+    description: 'Lab 3 Due'
 ---
-Introduction to ROS 2.
+Autonomously drive the car using PID wall following.
