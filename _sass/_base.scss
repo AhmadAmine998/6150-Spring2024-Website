@@ -320,22 +320,26 @@ a.tosu {
         text-align: center;
         padding: 2px 10px;
         flex-basis: 20%;
+        font-size: 24px;
     }
 
     .col-2 {
         padding: 2px;
         flex-basis: 20%;
+        font-size: 24px;
     }
 
     .col-3 {
         padding: 2px;
         flex-basis: 25%;
+        font-size: 24px;
     }
 
     .col-4 {
         padding: 2px;
         padding-left: 20px;
         flex-basis: 50%;
+        font-size: 24px;
 
         ul {
             margin-bottom: 0;
@@ -377,6 +381,7 @@ a.tosu {
         .col-1 {
             display: block;
             padding: 10px 0;
+            font-size: 24px;
 
             &:before {
                 content: none;
@@ -385,6 +390,7 @@ a.tosu {
 
         .col-4 {
             padding: 0;
+            font-size: 24px;
 
             &:before {
                 content: none;
@@ -393,10 +399,12 @@ a.tosu {
 
         .col-1-2 {
             text-align: left;
+            font-size: 24px;
         }
 
         .date-spliter {
             display: none;
+            font-size: 24px;
         }
     }
 }
