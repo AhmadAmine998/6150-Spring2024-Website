@@ -1,4 +1,4 @@
-<div class="col col-1" style="color: #a94442 ;font-weight: bold; font-size: 24px;" data-label="Event">Exam</div>
+<div class="col col-1" style="color: #a94442 ;font-weight: bold; font-size: 24px;" data-label="Event">Race</div>
 <div class="col col-1-2" style="font-weight: bold; font-size: 24px;" data-label="Date">
     {{ event.date | date: site.dateformat }}
     {{ event.date | date: "%H:%M" }}
@@ -7,6 +7,6 @@
 <div class="col col-2" style="font-weight: bold; font-size: 24px;" data-label="Description">
     {{ include.event.description }}
 </div>
-<div class="col col-4 markdown-content" style="font-size: 24px;" data-label="Course Material"></div>
+<div class="col col-4 markdown-content" style="font-size: 24px;" data-label="Course Material">
     {{ include.event.content}}
 </div>
