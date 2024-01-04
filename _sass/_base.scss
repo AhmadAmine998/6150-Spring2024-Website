@@ -313,7 +313,7 @@ a.tosu {
 
     .col-1 {
         padding: 2px;
-        flex-basis: 10%;
+        flex-basis: 12%;
         font-size: 24px;
     }
 
@@ -339,7 +339,7 @@ a.tosu {
     .col-4 {
         padding: 2px;
         padding-left: 20px;
-        flex-basis: 50%;
+        flex-basis: 48%;
         font-size: 24px;
 
         ul {
@@ -349,7 +349,7 @@ a.tosu {
 
     .date-spliter {}
 
-    @media all and (max-width: 767px) {
+    @media all and (max-width: 867px) {
         .table-header {
             display: none;
         }
