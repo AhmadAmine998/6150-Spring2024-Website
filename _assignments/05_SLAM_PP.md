@@ -2,6 +2,7 @@
 type: assignment
 date: 2024-02-20T13:30:00-5:00
 title: 'Lab 5: SLAM & Pure Pursuit'
+github: https://github.com
 hide_from_announcments: true
 due_event: 
     type: due

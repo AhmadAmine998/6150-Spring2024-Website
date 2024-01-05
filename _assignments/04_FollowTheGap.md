@@ -2,6 +2,7 @@
 type: assignment
 date: 2024-02-01T4:00:00-5:00
 title: 'Lab 4: Follow the Gap'
+github: https://github.com
 hide_from_announcments: true
 due_event: 
     type: due

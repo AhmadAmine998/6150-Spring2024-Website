@@ -2,6 +2,7 @@
 type: assignment
 date: 2024-03-15T13:30:00-5:00
 title: 'Lab 7: MPC'
+github: https://github.com
 hide_from_announcments: true
 due_event: 
     type: due
