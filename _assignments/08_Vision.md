@@ -2,9 +2,6 @@
 type: assignment
 date: 2024-03-22T13:30:00-5:00
 title: 'Lab 8: Perception & Vision'
-pdf: /static_files/assignments/asg.pdf
-attachment: /static_files/assignments/asg.zip
-solutions: /static_files/assignments/asg_solutions.pdf
 hide_from_announcments: true
 due_event: 
     type: due
