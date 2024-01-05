@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2024-01-11T12:00:00-5:00
+date: 2024-04-03T12:00:00-5:00
 title: "Ethics"
 tldr: "In-class discussion on ethics and autonomous vehicles."
 thumbnail: /static_files/presentations/lec17.png
