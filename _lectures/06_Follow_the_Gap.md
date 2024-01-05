@@ -4,6 +4,7 @@ date: 2024-02-01T12:00:00-5:00
 title: "Follow the Gap: Obstacle Avoidance"
 tldr: "Introduction to reactive methods for racing."
 thumbnail: /static_files/presentations/lec6.png
+hide_from_announcments: true
 links: 
     - url: https://google.com
       name: codes

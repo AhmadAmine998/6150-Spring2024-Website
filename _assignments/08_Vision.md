@@ -5,6 +5,7 @@ title: 'Lab 8: Perception & Vision'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
+hide_from_announcments: true
 due_event: 
     type: due
     date: 2024-04-05T23:59:00-5:00

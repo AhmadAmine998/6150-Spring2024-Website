@@ -2,8 +2,9 @@
 type: lecture
 date: 2024-01-30T12:00:00-5:00
 title: "Vehicle States, Dynamics, and Simulation"
-tldr: ""
+tldr: "Dynamics states, single track models, tire models."
 thumbnail: /static_files/presentations/lec5.png
+hide_from_announcments: true
 links: 
     - url: https://google.com
       name: codes

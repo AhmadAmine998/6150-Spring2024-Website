@@ -4,6 +4,7 @@ date: 2024-01-25T12:00:00-5:00
 title: "PID for Wall Following"
 tldr: "Introduction to reference tracking using PID control."
 thumbnail: /static_files/presentations/lec4.png
+hide_from_announcments: true
 links: 
     - url: https://google.com
       name: codes
