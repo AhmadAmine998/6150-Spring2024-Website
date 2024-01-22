@@ -1,13 +1,11 @@
 ---
 type: lecture
 date: 2024-03-13T12:00:00-5:00
-title: "Path Tracking: Model Predictive Control"
-tldr: "Introduction to optimal control, constrained control and applications."
+title: "Optimization & Control I: Optimization Basics and LQR"
+tldr: "Introduction to optimization, optimal control and MIMO systems."
 thumbnail: /static_files/presentations/lec14.png
 hide_from_announcments: true
 links: 
-    - url: https://google.com
-      name: codes
     - url: https://slides.google.com
       name: slides
 ---
