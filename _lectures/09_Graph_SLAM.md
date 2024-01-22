@@ -10,4 +10,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-[Tutorial 5: Running slam_toolbox and pf](https://docs.google.com/presentation/d/17Ef4lVkHAv2eUZNr8Tb549mbGYpCgCqqtjGaIiFPTlk/)
+[Tutorial 5: Running slam_toolbox and pf](https://docs.google.com/presentation/u/0/d/1CZBElDbKDDuVu4GpFFRiXm-pnE4lZPBhro3ewxeANX8)
