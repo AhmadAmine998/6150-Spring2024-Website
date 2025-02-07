@@ -10,4 +10,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-[Tutorial 2: Intorduction to the F1tenth Simulator](https://github.com/f1tenth/f1tenth_gym_ros).
+[Tutorial 2: Intorduction to the RoboRacer Simulator](https://github.com/f1tenth/f1tenth_gym_ros).

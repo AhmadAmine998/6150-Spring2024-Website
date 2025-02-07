@@ -9,4 +9,4 @@ links:
       name: slides
 ---
 **Suggested Readings:**
-[Tutorial 6: Foxglove visualization for the F1tenth](https://docs.google.com)
+[Tutorial 6: Foxglove visualization for the RoboRacer](https://docs.google.com)
